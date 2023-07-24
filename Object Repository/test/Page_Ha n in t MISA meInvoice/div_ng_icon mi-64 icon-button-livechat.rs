@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_ng_icon mi-64 icon-button-livechat</name>
+   <tag></tag>
+   <elementGuidId>12861f76-c9d6-4bae-b519-b275041f76b8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.icon.mi-64.icon-button-livechat</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='livechat-button']/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1cfcc891-9151-4107-bf8f-9f5a7040071d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>draggable</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>5f779f82-b33b-465d-87a6-153d9bbbd896</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon mi-64 icon-button-livechat</value>
+      <webElementGuid>4242c833-76f4-43c0-8d5f-424fdc663eb3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;livechat-button&quot;)/div[@class=&quot;icon mi-64 icon-button-livechat&quot;]</value>
+      <webElementGuid>9dc8dd96-24bb-4ee9-939b-c4fbe4decddc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='livechat-button']/div[3]</value>
+      <webElementGuid>cf7ce926-9c4e-4f55-bc98-339a77aa0720</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[15]/div[3]</value>
+      <webElementGuid>887b7934-6b37-473c-91d4-2b08b0edac93</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

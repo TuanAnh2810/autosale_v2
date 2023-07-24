@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_ng hng dn bt u s dng</name>
+   <tag></tag>
+   <elementGuidId>6f57f35a-7c20-42f7-9cda-82f19ee9dcfa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#btnCloseGettingStated</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='btnCloseGettingStated']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0ec88c5f-5d9f-4db5-8f38-ecf9c5dd9775</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>btnCloseGettingStated</value>
+      <webElementGuid>8c79f3cb-3004-4030-b53e-623aa8d68a79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>close-getting-stated f-w-bold</value>
+      <webElementGuid>e02f7862-a303-498a-9adc-25b9f9771c07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Đóng hướng dẫn bắt đầu sử dụng</value>
+      <webElementGuid>8d962ebb-93ef-4252-9578-aaa2d3e5398b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;btnCloseGettingStated&quot;)</value>
+      <webElementGuid>218d8089-b7e9-46ff-9feb-c98315e078d8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='btnCloseGettingStated']</value>
+      <webElementGuid>6cc07a43-d1e5-48a8-bcc7-d3161cbd93da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='btn-Step3']/a</value>
+      <webElementGuid>3cf32111-b5ac-45f9-b655-601b11cd6f91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Đóng hướng dẫn bắt đầu sử dụng')]</value>
+      <webElementGuid>df3bca4a-5d45-46ef-816b-cfe17f1219a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tiếp tục'])[1]/preceding::a[1]</value>
+      <webElementGuid>3d005d94-9612-4cc2-9095-26eeb0019598</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quay lại'])[1]/preceding::a[1]</value>
+      <webElementGuid>640ea5d4-41c0-4c64-865d-151c7652b17f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Đóng hướng dẫn bắt đầu sử dụng']/parent::*</value>
+      <webElementGuid>fe88dc24-b515-4af1-8d8c-0d119f939170</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div/div/div[4]/a</value>
+      <webElementGuid>a5207593-fc97-463a-9caf-056f5b65271e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'btnCloseGettingStated' and (text() = 'Đóng hướng dẫn bắt đầu sử dụng' or . = 'Đóng hướng dẫn bắt đầu sử dụng')]</value>
+      <webElementGuid>68c4ae60-1777-4fb6-9138-3869482ee77e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
